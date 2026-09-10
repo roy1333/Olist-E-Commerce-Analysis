@@ -87,7 +87,7 @@ The analysis shows the distribution of orders across different order statuses.
 
 
 
-!\[Order Status](visualization/order\_status.png)
+![Order Status](visualization/order_status.png)
 
 
 
@@ -103,7 +103,7 @@ The analysis identifies the cities with the highest number of customer orders.
 
 
 
-!\[Top 10 Cities](visualization/top\_cities.png)
+![Top 10 Cities](visualization/top_cities.png)
 
 
 
@@ -119,7 +119,7 @@ A second city analysis was performed to validate the order volume using actual o
 
 
 
-!\[Top 10 Cities by Actual Orders](visualization/top\_cities\_actual\_orders.png)
+![Top 10 Cities by Actual Orders](visualization/top_cities_actual_orders.png)
 
 
 
@@ -135,7 +135,7 @@ The analysis identifies the product categories with the highest number of items 
 
 
 
-!\[Top 10 Product Categories](visualization/top\_product\_categories.png)
+![Top 10 Product Categories](visualization/top_product_categories.png)
 
 
 
@@ -151,7 +151,7 @@ The analysis compares payment methods based on transaction volume and total reve
 
 
 
-!\[Payment Analysis](visualization/payment\_methods.png)
+![Payment Analysis](visualization/payment\_methods.png)
 
 
 
@@ -167,7 +167,7 @@ The analysis examines the distribution of customer review scores.
 
 
 
-!\[Customer Review Analysis](visualization/customer\_reviews.png)
+![Customer Review Analysis](visualization/customer\_reviews.png)
 
 
 
